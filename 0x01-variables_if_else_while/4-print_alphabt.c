@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * mmain - Entry point
+ * main - Entry point
  *
- *Return: Always 0 (Success/correct)
+ * Description: a program that prints the alphabet in lowercase, followed by a new line.
+ *
+ * Return: Always 0 (Success/correct)
  */
 
 int main(void)
